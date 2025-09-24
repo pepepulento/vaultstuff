@@ -1,0 +1,6 @@
+tests_publicos/
+*.pdf
+__pycache__/
+data/
+utilidades.py
+

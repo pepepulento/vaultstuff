@@ -1,0 +1,5 @@
+*.pdf
+README_inicial.md
+*.pyc
+archivos_server/
+__pycache__/
